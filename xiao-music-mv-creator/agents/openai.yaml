@@ -1,0 +1,4 @@
+interface:
+  display_name: "晓·音乐 MV 创作"
+  short_description: "从写歌和音轨定稿到按音乐拆镜、剪辑完整 MV 和预告片"
+  default_prompt: "用 $xiao-music-mv-creator 把我的歌曲和画面想法整理成 MV 主分镜，并为第一段准备执行包。"
